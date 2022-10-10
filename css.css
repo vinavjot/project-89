@@ -1,0 +1,22 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div_1 , .login_div_2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+
